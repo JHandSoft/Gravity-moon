@@ -1,2 +1,2 @@
-# Gravity moon
- A game about a moon that has to dodge asteroids and aliens
+# Gravity-moon
+A small game made with python3 and pygame.

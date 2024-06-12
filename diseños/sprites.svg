@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   viewBox="0 0 529.16665 529.16669"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="sprites.svg"
+   inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\pygame\Infinite gravity jump\jugador.png"
+   inkscape:export-xdpi="229.90414"
+   inkscape:export-ydpi="229.90414">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect878"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect876"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect872"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect870"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect866"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect864"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect860"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect858"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect854"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect852"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect848"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect846"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect842"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect840"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect836"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect834"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect830"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect828"
+       is_visible="true"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="388.13207"
+     inkscape:cy="948.07909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,232.16668)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Arabic';-inkscape-font-specification:'Noto Sans Arabic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="147.80005"
+       y="133.48448"
+       id="text908"><tspan
+         sodipodi:role="line"
+         id="tspan906"
+         x="147.80005"
+         y="141.69258"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g1208"
+       transform="translate(221.97716,-36.509826)"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\pygame\Infinite gravity jump\marciano.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414">
+      <path
+         sodipodi:nodetypes="czzzc"
+         inkscape:connector-curvature="0"
+         id="path879"
+         d="m 193.18344,-12.452914 c 0,0 -17.44168,-5.776129 -31.91601,-25.309209 C 146.7931,-57.295203 122.04164,-122.19854 193.675,-122.1 c 71.63335,0.0985 48.20735,64.232771 34.98919,83.854105 -13.21816,19.621334 -35.48075,25.792981 -35.48075,25.792981 z"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="12.5"
+         cy="-71.705811"
+         cx="172.59094"
+         id="path953"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000015;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="12.5"
+         cy="-72.457008"
+         cx="215.68837"
+         id="path953-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000015;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="12.5"
+         cy="-100.32772"
+         cx="194.05029"
+         id="path953-9-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000015;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="4.999999"
+         cy="-75.401619"
+         cx="177.13911"
+         id="path953-9-5-5"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="4.999999"
+         cy="-104.90209"
+         cx="189.97084"
+         id="path953-9-5-5-3"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="4.999999"
+         cy="-66.008339"
+         cx="216.42915"
+         id="path953-9-5-5-3-1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="1.8499995"
+         cy="-76.99752"
+         cx="175.30095"
+         id="path953-9-5-5-0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="1.8499997"
+         cy="-106.75417"
+         cx="188.38333"
+         id="path953-9-5-5-0-7"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="1.8499997"
+         cy="-67.992714"
+         cx="215.50313"
+         id="path953-9-5-5-0-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1068"
+         d="m 191.23964,-13.446444 c -7.91467,-3.440642 -15.64735,-8.958641 -22.69984,-16.19849 -6.06758,-6.228776 -9.60692,-11.207094 -13.61399,-19.149023 -4.59481,-9.106794 -7.64786,-18.447131 -9.05439,-27.700501 -0.62085,-4.0845 -0.61421,-12.31514 0.0128,-15.823454 2.62412,-14.683478 12.42483,-24.037138 29.08956,-27.762678 6.17059,-1.37949 8.8388,-1.60524 18.83376,-1.5935 10.06558,0.0118 13.3351,0.32339 19.6902,1.87636 16.45657,4.02142 26.00847,13.32334 28.76168,28.008985 0.75065,4.003992 0.68604,13.533445 -0.12378,18.256247 -1.60907,9.384001 -4.58642,18.25327 -9.19272,27.384374 -2.558,5.070745 -4.46164,8.085551 -7.43444,11.773959 -7.29311,9.048707 -18.47179,16.806129 -30.43858,21.122788 l -1.84804,0.666625 z m -8.12092,-24.613976 c 5.02543,-0.754745 11.1841,-1.020892 16.16742,-0.698674 4.86903,0.314825 10.13701,1.034499 13.57022,1.853866 1.16354,0.277688 2.15883,0.461574 2.21177,0.408639 0.0529,-0.05294 -0.61936,-1.085329 -1.49399,-2.294205 -5.92291,-8.186393 -11.7245,-12.227076 -18.04684,-12.569248 -5.73275,-0.310261 -10.77377,2.140691 -16.2988,7.924501 -1.86451,1.951831 -5.66162,6.912644 -5.66162,7.396728 0,0.05367 1.53013,-0.286263 3.40027,-0.755411 1.87015,-0.469146 4.63836,-1.038934 6.15157,-1.266196 z m -7.15246,-21.478668 c 2.31179,-0.685908 3.9533,-1.649246 5.52503,-3.242421 7.9131,-8.021085 2.39234,-21.466611 -8.81423,-21.466611 -3.78523,0 -6.39516,1.071435 -9.08218,3.728442 -4.08557,4.039946 -4.78573,10.730169 -1.63654,15.637745 1.62972,2.539712 4.78441,4.826175 7.56002,5.479367 1.66275,0.391303 4.89992,0.32276 6.4479,-0.136522 z m 45.04266,-1.489631 c 10.62128,-5.0537 9.38852,-20.232851 -1.91558,-23.58677 -1.83497,-0.544433 -5.06832,-0.546669 -6.91541,-0.0048 -6.00575,1.761927 -9.93004,7.883189 -8.98539,14.015744 0.55026,3.57215 2.99719,7.255467 5.9821,9.004744 2.22218,1.302282 3.93457,1.700011 6.99016,1.623576 2.58739,-0.06473 2.91997,-0.136988 4.84412,-1.052515 z m -23.77108,-27.064567 c 6.78166,-1.766398 10.78615,-8.719669 8.99133,-15.612264 -1.1958,-4.59218 -5.42784,-8.34224 -10.28744,-9.11581 -4.80435,-0.76477 -9.95367,1.58676 -12.60391,5.75581 -1.34679,2.1186 -1.90995,4.45314 -1.79066,7.423072 0.0924,2.300449 0.2053,2.7833 1.08283,4.631137 2.64023,5.559562 8.73743,8.447106 14.60785,6.918055 z"
+         style="opacity:1;fill:#649646;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1070"
+         d="m 174.57661,-36.986349 c 1.87868,-3.177461 5.94602,-7.710583 8.92328,-9.945142 10.27435,-7.71135 20.39518,-4.814848 29.95308,8.572333 0.51536,0.721836 0.93702,1.342239 0.93702,1.378678 0,0.03643 -0.34231,-0.01545 -0.76068,-0.115316 -1.51208,-0.360916 -5.56596,-1.096196 -7.50755,-1.3617 -9.99467,-1.366721 -20.54014,-0.911844 -28.97124,1.249675 -1.23728,0.317206 -2.39554,0.62022 -2.57391,0.67337 l -0.32432,0.09663 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <g
+       id="g1180"
+       transform="translate(-252.77299,259.10475)"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\pygame\Infinite gravity jump\luna.png"
+       inkscape:export-xdpi="170.01218"
+       inkscape:export-ydpi="170.01218">
+      <path
+         sodipodi:nodetypes="scscccsscsscccccccss"
+         transform="matrix(0.26458333,0,0,0.26458333,0,-232.16668)"
+         inkscape:connector-curvature="0"
+         id="path1102"
+         d="m 1319.6844,712.40619 c -29.6394,-4.01029 -60.6129,-16.20704 -86.1256,-33.91458 -16.0436,-11.13531 -35.0287,-30.26308 -45.1323,-45.47145 -26.3765,-39.70305 -39.1382,-89.348 -33.2235,-129.24415 3.8589,-26.02889 15.005,-57.56414 26.9697,-76.30412 14.6701,-22.97728 37.2652,-45.7591 59.3912,-59.88193 45.9204,-29.31065 101.5584,-37.6317 152.6205,-22.82548 20.4588,5.93235 44.5046,18.14117 62.8558,31.914 8.0778,6.0625 25.0429,21.28876 24.4171,21.91454 -0.1605,0.16048 -6.1376,1.47122 -13.2824,2.91274 -57.6106,11.62338 -96.6232,41.9756 -113.8418,88.57016 -5.6487,15.28569 -7.9739,28.17331 -8.021,44.45667 -0.036,12.57511 0.2756,15.18329 3.0659,25.62612 11.163,41.77874 32.7832,70.83573 65.2786,87.7328 12.4034,6.44954 25.7907,10.8379 38.9446,12.76596 5.8207,0.8532 12.335,1.77944 14.26,2.05832 l 0.6768,1.45158 -3.4176,4.76052 c -11.2307,10.56583 -30.893,21.62001 -56.1035,31.54142 -31.0331,12.21282 -59.3388,15.99512 -89.3325,11.93688 z"
+         style="opacity:1;fill:#ffffbf;fill-opacity:1;stroke:#000000;stroke-width:18.89763832;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffff15;fill-opacity:1;stroke:#000000;stroke-width:3.39738035;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1182"
+       sodipodi:sides="5"
+       sodipodi:cx="300.83859"
+       sodipodi:cy="7.3867183"
+       sodipodi:r1="18.805914"
+       sodipodi:r2="36.516335"
+       sodipodi:arg1="0.78103963"
+       sodipodi:arg2="1.4093581"
+       inkscape:flatsided="false"
+       inkscape:rounded="-0.03"
+       inkscape:randomized="0"
+       d="m 314.19421,20.626423 c 0.50688,-0.511315 -8.19667,22.91754 -7.48606,22.801813 0.71062,-0.115728 -14.97707,-19.572337 -14.33415,-19.248273 0.64292,0.324064 -24.32879,-0.713595 -23.99913,-0.07352 0.32965,0.640074 13.98622,-20.2922295 13.87669,-19.5806321 -0.10952,0.7115975 -6.83934,-23.3585669 -7.34621,-22.8472519 -0.50688,0.511315 23.62104,7.031049 22.91042,7.146777 -0.71062,0.115728 20.10185,-13.722793 19.45892,-14.046857 -0.64292,-0.324064 0.61238,24.63765676 0.28272,23.9975829 -0.32965,-0.6400738 19.26297,14.8774141 19.3725,14.1658161 0.10952,-0.711597 -23.24257,8.195861 -22.7357,7.684546 z"
+       inkscape:transform-center-x="3.1704229"
+       inkscape:transform-center-y="-6.3682419"
+       transform="matrix(1.3104269,-0.66988614,0.66988614,1.3104269,-4.1531531,353.45017)"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\pygame\Infinite gravity jump\estrella.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13352472;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3"
+       cx="61.748791"
+       cy="-91.568954"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="17.187414" />
+    <circle
+       style="opacity:1;fill:#120000;fill-opacity:1;stroke:#000000;stroke-width:0.21817848;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4"
+       cx="141.02292"
+       cy="-113.89792"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="12.217996" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5"
+       cx="103.98124"
+       cy="-49.868755"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="14.075932" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 39.422916,-80.031255 c 0,0 -13.096875,-27.648955 11.90625,-39.555205 l 12.699999,-14.15521 c 0,0 -3.042708,-10.98021 7.408333,-5.02708 0,0 32.808332,28.31041 47.757292,-12.83229 0,0 5.55625,-7.9375 9.12812,0.92604 0,0 10.98021,3.96875 16.93334,10.58333 0,0 28.97187,2.38125 17.59479,37.30625 0,0 -2.91042,26.193749 -14.94896,41.936457 0,0 0.26458,12.170833 -11.37708,12.964583 l -9.525,6.35 c 0,0 -12.17084,29.368749 -38.496877,10.980208 0,0 -44.58229,3.439581 -49.080207,-49.477083 z"
+       id="path1939"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 71.374325,-138.72951 c 0,0 17.025069,-16.6509 47.988245,-13.00267"
+       id="path1941"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-4"
+       cx="122.3698"
+       cy="-77.650002"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="3.8894737" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-43"
+       cx="98.425003"
+       cy="-87.968758"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="5.3446822" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-0"
+       cx="108.74375"
+       cy="-105.96042"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="3.2280152" />
+    <path
+       style="opacity:1;fill:#d24600;fill-opacity:1;stroke:#d24600;stroke-width:7.55905522;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 384.51633,772.26391 c -7.42321,-1.10642 -21.78593,-6.56798 -31.91717,-12.13678 -14.91577,-8.19873 -21.4185,-10.12515 -34.17825,-10.12515 -51.63471,0 -107.27811,-34.22108 -131.79654,-81.05579 -12.73113,-24.31878 -17.91783,-40.27222 -24.68336,-75.92191 -2.95225,-15.55635 -7.36483,-35.24381 -9.80573,-43.7499 -5.63731,-19.64498 -5.68975,-49.14946 -0.11645,-65.5062 5.68605,-16.68763 18.61811,-32.00823 35.00616,-41.47175 7.29955,-4.21524 24.89289,-20.47656 39.09631,-36.13627 21.40599,-23.60078 25.97988,-30.2713 26.73319,-38.98738 l 0.9088,-10.51517 22.5818,14.28292 c 34.15367,21.60208 49.09255,26.65444 79.24157,26.79967 22.0888,0.1064 27.51348,-0.88883 41.01219,-7.52424 22.03375,-10.83088 38.307,-28.78909 53.62786,-59.18052 7.25163,-14.3848 14.67999,-26.65258 16.50743,-27.26173 1.82745,-0.60915 4.7024,1.85621 6.3888,5.47859 1.92327,4.13122 11.1632,10.43787 24.78932,16.91975 11.94773,5.68349 27.64604,15.54763 34.88511,21.92031 7.29104,6.41843 16.1224,11.6144 19.79899,11.64881 9.44149,0.0884 30.68199,10.24889 40.13009,19.1965 19.67638,18.634 26.11495,50.47453 17.55359,86.80739 -2.56595,10.88945 -7.1592,32.67456 -10.20726,48.41136 -8.71908,45.01597 -23.42636,85.77887 -40.68112,112.75242 -5.05842,7.90757 -10.78861,21.01142 -12.73375,29.1197 -3.86428,16.10815 -15.6102,28.91405 -26.5324,28.9268 -10.92882,0.0113 -47.09141,26.45524 -54.74189,40.02788 -8.43883,14.97128 -27.58024,35.18665 -39.08628,41.27925 -11.9295,6.31684 -26.05333,8.34558 -41.78101,6.00144 z m 21.98202,-31.04074 c 33.16794,-9.06002 49.75921,-43.81607 35.69571,-74.7768 -23.84134,-52.48655 -102.56781,-35.47554 -102.56781,22.16257 0,24.24703 13.50374,43.52075 36.14763,51.59308 13.47347,4.80315 16.50952,4.90404 30.72447,1.02115 z m 66.95243,-145.80884 c 10.75603,-9.73406 3.53259,-26.43168 -11.43445,-26.43168 -9.7996,0 -14.50579,4.70618 -14.50579,14.50579 0,14.73141 15.14589,21.69466 25.94024,11.92589 z m -209.40388,-6.0295 c 27.66539,-14.3724 40.80301,-43.93754 33.3428,-75.03521 -4.90032,-20.42681 -26.54933,-42.07582 -46.97614,-46.97613 -52.07493,-12.49259 -94.29351,33.0394 -79.79067,86.05281 3.75736,13.73456 26.32572,36.73522 39.8793,40.64317 18.56702,5.35351 37.39274,3.70646 53.54471,-4.68464 z m 122.78102,-30.17311 c 3.81838,-3.81837 6.94251,-10.24019 6.94251,-14.2707 0,-4.03051 -3.12413,-10.45232 -6.94251,-14.2707 -19.59411,-19.59411 -48.31237,8.73611 -29.33401,28.93765 8.15256,8.67801 20.42554,8.51222 29.33401,-0.39625 z M 559.00117,487.1018 c 29.1195,-17.99684 27.61186,-64.21507 -2.65383,-81.35663 -26.70208,-15.12322 -60.88549,-0.94803 -69.18333,28.68896 -11.57819,41.35332 34.94966,75.4654 71.83716,52.66767 z m -136.755,-3.32974 c 2.3366,-4.36596 2.3805,-7.8548 0.16015,-12.72792 -4.29641,-9.42959 -19.03427,-9.42959 -23.33068,0 -4.48619,9.84614 1.05092,18.74255 11.66535,18.74255 5.55578,0 9.34694,-1.98193 11.50518,-6.01463 z"
+       id="path1970"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-232.16668)"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414" />
+    <path
+       style="opacity:1;fill:#782800;fill-opacity:1;stroke:#782800;stroke-width:4.15748036;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 341.98597,377.12885 c -12.21228,-2.40854 -22.69803,-6.06559 -34.55855,-12.05276 -10.23129,-5.16474 -19.89492,-11.29439 -19.8763,-12.60757 0.0199,-1.40505 15.30238,-10.73274 27.68416,-16.89709 29.95414,-14.91286 57.01517,-21.35848 94.27938,-22.45626 14.58408,-0.42964 26.51651,-0.36136 26.51651,0.15173 0,1.6818 -8.76274,18.36544 -13.73932,26.15871 -10.5481,16.5182 -26.85941,30.25356 -42.19178,35.52866 -10.70827,3.68419 -26.02799,4.55825 -38.1141,2.17458 z"
+       id="path1972"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-232.16668)"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-6"
+       cx="68.848625"
+       cy="-59.965187"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="4.3473215" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-07"
+       cx="77.828888"
+       cy="-116.84013"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="5.0956759" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-64"
+       cx="140.69067"
+       cy="-86.905952"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="8.0890942" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-5"
+       cx="129.83952"
+       cy="-60.339359"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="5.4698534" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-9"
+       cx="85.686607"
+       cy="-72.313034"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="9.959981" />
+    <circle
+       style="opacity:1;fill:#0e0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path854-3-4-5-60"
+       cx="115.99498"
+       cy="-120.58193"
+       inkscape:export-filename="C:\Users\javim\Google Drive\Programación\Python\juegos\Gravity moon\asteroide.png"
+       inkscape:export-xdpi="229.90414"
+       inkscape:export-ydpi="229.90414"
+       r="8.8374491" />
+  </g>
+</svg>
